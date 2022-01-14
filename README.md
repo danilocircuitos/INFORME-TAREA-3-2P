@@ -251,6 +251,7 @@ SECCIÓN 11–10 El osciloscopio
 
 43.-  Determine el valor pico y el periodo para la onda seno mostrada en la pantalla del osciloscopio de la
 figura 11-89.
+
 ![image](https://user-images.githubusercontent.com/93210648/149510849-aacf16cc-2783-417c-a850-82b37116fc41.png)
 
      Vp = 3 divisiones * 0.2 V/división = 0.6 [V]
